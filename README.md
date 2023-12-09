@@ -24,7 +24,7 @@ Para el trabajo en clase se siguen los siguientes parámetros:
 ```
 ## Evidencias de Realización
 ### Ruta "/" o "raíz": Contiene una información breve del trabajo
-![](https://github.com/bryandelgado99/Presentacion-Grupal-Rutas/blob/bcc65999ff83c67a837b6ebfe0b0b1b8a9c3dbde/images/code_raiz.png****)
+![](https://github.com/bryandelgado99/Presentacion-Grupal-Rutas/blob/bcc65999ff83c67a837b6ebfe0b0b1b8a9c3dbde/images/code_raiz.png)
 ![ruta_raiz](https://github.com/bryandelgado99/Presentacion-Grupal-Rutas/blob/e82d5e17949d446c3ee3252fe99cd312554a0db9/images/ruta_raiz.png)
 ### Ruta "/home": GET con información del grupo
 ![](https://github.com/bryandelgado99/Presentacion-Grupal-Rutas/blob/bcc65999ff83c67a837b6ebfe0b0b1b8a9c3dbde/images/code_home.png)
