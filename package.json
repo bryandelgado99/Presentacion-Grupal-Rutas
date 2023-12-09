@@ -4,12 +4,13 @@
   "description": "Presentación del grupo 1 mediante rutas con métodos GET, dentro de un servidor en Express JS y su respectivo despliegue en un backend, en este caso, Render.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "path": "^0.12.7"
   }
 }
