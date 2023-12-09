@@ -24,7 +24,7 @@ Para el trabajo en clase se siguen los siguientes parámetros:
 ```
 ## Evidencias de Realización
 ### Ruta "/" o "raíz": Contiene una información breve del trabajo
-![]()
+![ruta_raiz](https://github.com/bryandelgado99/Presentacion-Grupal-Rutas/blob/e82d5e17949d446c3ee3252fe99cd312554a0db9/images/ruta_raiz.png)
 ### Ruta "/home": GET con información del grupo
 
 ### Ruta "/infor-group": GET con información de los integrantes, en un JSON
