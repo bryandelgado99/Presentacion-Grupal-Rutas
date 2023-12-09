@@ -23,6 +23,8 @@ Para el trabajo en clase se siguen los siguientes parámetros:
         ├── views
 ```
 ## Evidencias de Realización
+### Ruta "/" o "raíz": Contiene una información breve del trabajo
+![]()
 ### Ruta "/home": GET con información del grupo
 
 ### Ruta "/infor-group": GET con información de los integrantes, en un JSON
