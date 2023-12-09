@@ -8,6 +8,20 @@ Para el trabajo en clase se siguen los siguientes parámetros:
 •	Una de tipo GET para que presente la información de los integrantes del grupo
 •	Una de tipo GET para que presente los productos.
 
+## Estrcutura del proyecto
+```
+└── 📁Presentacion-Grupal-Rutas
+    └── 📁images
+    └── package-lock.json
+    └── package.json
+    └── README.md
+    └── 📁src
+        └── 📁assets
+        └── index.js
+        └── server.js
+        └── 📁styles
+        ├── views
+```
 ## Evidencias de Realización
 ### Ruta a: GET con información del grupo
 
