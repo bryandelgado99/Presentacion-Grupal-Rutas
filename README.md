@@ -28,9 +28,8 @@ Para el trabajo en clase se siguen los siguientes parámetros:
 ### Ruta "/home": GET con información del grupo
 
 ### Ruta "/infor-group": GET con información de los integrantes, en un JSON
-- Obtención de información JSON mediante Postman y Thunder Client
-  - Postman
-    
+- Obtención de información JSON mediante Thunder Client
+      
   - Thunder Client
     
 ### Ruta "/products": GET con productos presentados
