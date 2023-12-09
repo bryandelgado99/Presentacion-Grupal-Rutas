@@ -23,12 +23,12 @@ Para el trabajo en clase se siguen los siguientes parámetros:
         ├── views
 ```
 ## Evidencias de Realización
-### Ruta a: GET con información del grupo
+### Ruta "/home": GET con información del grupo
 
-### Ruta b: GET con información de los integrantes, en un JSON
+### Ruta "/infor-group": GET con información de los integrantes, en un JSON
 - Obtención de información JSON mediante Postman y Thunder Client
   - Postman
     
   - Thunder Client
     
-### Ruta c: GET con productos presentados
+### Ruta "/products": GET con productos presentados
